@@ -1,0 +1,4 @@
+Takeaways
+1. The 'this' keyword represents the context in javascript
+2. By default, 'this' resolves to the global object ie 'window' object in the browser
+3. 'this' is useful to access information in the current context, eg updating value of the object instance

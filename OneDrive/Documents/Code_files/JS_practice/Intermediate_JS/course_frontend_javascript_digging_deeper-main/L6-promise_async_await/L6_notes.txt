@@ -1,0 +1,5 @@
+Takeaways
+1. Synchronous operations run on the spot. Asynchronous operations run later in the Event Loop
+2. Event loop is the name of the queue system that Javascript uses for async tasks.
+3. Promises are async operations that aimed to solve the problems of callback
+4. Async Fn returns pormise. It is a nice helper keyword to save us from writing the promise boilerplate code

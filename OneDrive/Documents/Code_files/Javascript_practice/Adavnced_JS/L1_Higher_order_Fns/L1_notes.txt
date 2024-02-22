@@ -1,0 +1,3 @@
+1. Higher order Fns are the Fns which accept a fn in a parameter or return 
+a fn or both
+2. eg 'forEach' method

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+    </head>
+    <body>
+        <script>
+            // callback - a function that is passed to another function. 
+            window.addEventListener('click', function(event){
+
+            });
+
+            // why? 
+            // customising the logic
+            // more flexible
+
+            function shopping(budget, afterShoppingCallback) {
+                const spent = 100;
+
+                budget = budget - spent;
+
+                budget = afterShoppingCallback(budget);
+
+                return budget;
+            }
+
+            const leftOver = shopping(1000, function (budget) {
+                console.log('budget is', budget);
+                console.log("watch movie");
+                budget = budget - 30;
+                return budget 
+            });
+            console.log(leftOver); //870
+
+            // callback hell
+            // ugly ugly ugly...
+            // use promise instead (learn in next lesson)
+            shopping(1000, function (budget) {
+                console.log("watch movie");
+
+                shopping(budget, function (budget) {
+                    console.log("watch movie");
+
+                    shopping(budget, function (budget) {
+                        console.log("watch movie");
+
+                        shopping(budget, function (budget) {
+                            console.log("watch movie");
+
+                            
+                        });
+                    });
+                });
+            });
+        </script>
+    </body>
+</html>

@@ -1,0 +1,12 @@
+1. iife is a technique to run a Fn immediately in such a way 
+that we can create a private variable (only accessed within the Fn)
+
+Interview Question
+What does prototype contains?
+It contains many helper properties and methods which we can use to complete our task,
+lets say we create an array and we wnat to know length of it, what do we do?
+we use .length property on array, did we create .length on that array? NO!
+but it still contains .length, the question is how?
+
+the answer is, many properties and methods are already available to use built by JS creators 
+inside prototype of every object

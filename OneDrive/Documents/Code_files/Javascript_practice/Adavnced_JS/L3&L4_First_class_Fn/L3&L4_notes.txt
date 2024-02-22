@@ -1,0 +1,8 @@
+Interview questions
+What is a first class Fn?
+A language is said to have first class Fn when the Fns in that language are treated
+as normal values or variables, you can save them, you can pass them as arguments to another Fns
+
+1. Whenever a new keyword is used, create a blank object in your mind
+2. new keyword creates a blank object for the constructor fn that is being called
+just after the 'new' keyword

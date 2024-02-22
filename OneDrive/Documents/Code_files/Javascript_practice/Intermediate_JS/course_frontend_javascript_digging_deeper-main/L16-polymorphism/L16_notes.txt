@@ -1,0 +1,5 @@
+takeaways
+1. Polymorphism is the concept where classes have the same method signature 
+but different implementation
+2. Polymorphism helps us to write cleaner and more generic code, so our code will
+be easier to maintain in the long run

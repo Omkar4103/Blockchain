@@ -1,0 +1,12 @@
+1. A Fn which whenever invoked with "new" keyword returns an object,
+if we use "this" keyword inside that Fn, it returns an Object with all
+of the properties and methods mentioned inside that Fn, such Function is called as 
+a constructor Fn
+2. When we have an opportunity to create many elements with
+similiar properties; A constructor Fn can be used in such cases
+3. Example: A music player has similiar properties for all songs 
+(title, likes, singer, genre, etc) A constructor fn can be used with 'this'
+keyword and instantiated with the 'new' keyword for every song
+
+
+

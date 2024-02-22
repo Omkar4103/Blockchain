@@ -1,0 +1,6 @@
+Takeaways
+1. Procedural programming: writing logic as step by step intstructions
+2. Object Oriented Programming(OOP): Splitting logic into Objects to easily reuse our code
+3. Functional Programming(FP): describing the logic using Fn 
+4. Javascript is a prototype based lamguage. 
+However, it supports OOP ande FP

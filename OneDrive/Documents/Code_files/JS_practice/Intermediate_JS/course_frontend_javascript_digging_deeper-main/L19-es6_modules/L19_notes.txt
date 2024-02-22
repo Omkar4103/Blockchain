@@ -1,0 +1,6 @@
+Takeaways
+1. ES6 modules help us to organize our code and improve reusability
+2. There are 2 types of ex port:
+Default and named export
+3. When we import a 'Named export' we must specify what item to import,
+ but not with 'Default export'

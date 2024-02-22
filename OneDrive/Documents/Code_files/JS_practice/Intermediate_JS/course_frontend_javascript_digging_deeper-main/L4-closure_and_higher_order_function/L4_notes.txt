@@ -1,0 +1,4 @@
+Takeaways
+1. Higher order Fn: A Fn that accepts another Fn as its argument or returns a Fn as its result.  
+2. Closure: A Fn that is defined in another Fn
+3. Functional programming (FP) techniques can help us to write more declarative and cleaner code 

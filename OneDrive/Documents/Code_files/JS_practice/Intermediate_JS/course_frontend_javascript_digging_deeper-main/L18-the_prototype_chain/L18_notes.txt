@@ -1,0 +1,7 @@
+Takeaways
+1. Prototype is a special object attached to every constructor Fn
+2. A constructor Fn can only have 1 Prototype,
+and it is shared across all its instances
+3. Object is the root ancestor of evry data type in javascript
+4. Javascript's inheritance system is based on the 
+prototype chain

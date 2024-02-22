@@ -1,0 +1,5 @@
+Takeaways
+1. Class is the template for creating object
+2. We use the 'new' keyword to create object instances from class.
+3. A Class constructor is a special Fn that runs whenever an object is instantiated.
+4. The 'Constructor Fn' has the same purpose as class, jsut different syntax

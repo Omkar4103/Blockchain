@@ -1,0 +1,7 @@
+Takeaways
+1. Javascript stores data in heaps
+2. Objects are refernces in Javascript.
+To make a copy we should clone the Object
+3. Triple dots(...) are referred to both 'Spread' and 'Rest' operator
+4. Spread is used to unpack arrays and objects.
+Rest is used to pack Fn arguments

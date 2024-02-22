@@ -1,0 +1,8 @@
+1. 'this' keyword is a special keyword in JS which changes 
+its value in different context
+2. A Fn existing inside an Object is called a Method
+3. values of 'this' keyword in different scopes
+global > window, Fn > window, method > Object
+4. In any method 'this' keyword always refers to the parent object
+5. 'this' keyword is equal to whatever is written before the addEventlistener, 
+(can be any targeted HTML element)
