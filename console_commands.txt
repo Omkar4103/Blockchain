@@ -1,0 +1,7 @@
+For deploying an instance:
+Contest.deployed().then(function(instance){app = instance;})
+
+For accessing an account of index 0:
+await app.vote(1, { from: (await web3.eth.getAccounts())[0] });
+
+
