@@ -1,5 +1,0 @@
-Takeaways
-1. Inheritance is not very flexible and hard to maintain
-2. Object composition is a better way to create an Object template
-3. Object composition is the idea of building an object 
-via a smaller building blocks and join them together

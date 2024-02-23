@@ -1,6 +1,0 @@
-Takeaways
-1. var sucks
-2. var is not scope safe
-3. var variables are hoisted up
-4. we can't access a let/const variable before declaration
-5. var variables are added to the window object by default

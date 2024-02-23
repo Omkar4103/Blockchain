@@ -1,4 +1,0 @@
-Takeaways 
-1. Object destructuring is useful to ectract properties out
-2. Array destructuring is useful to extract the first few elements
-out from an Array
