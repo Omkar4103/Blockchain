@@ -1,4 +1,0 @@
-Takeaways
-1. inheritance is the concept of a cass extending another base/parent
-class so it can access all the properties and methods of the base class
-2. The 'super' Fn is a special Fn that represent the constructor of the base class

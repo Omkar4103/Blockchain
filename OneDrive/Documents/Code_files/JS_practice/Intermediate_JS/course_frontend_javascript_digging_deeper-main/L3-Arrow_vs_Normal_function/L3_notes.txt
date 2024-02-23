@@ -1,4 +1,0 @@
-Takeaways
-1. We don't need the return and the curly braces in an arrow Fn if the Fn is a one-liner
-2. If there is only 1 argument, the round brackets are optional
-3. Arrow fn automatically binds the parent's context to itself

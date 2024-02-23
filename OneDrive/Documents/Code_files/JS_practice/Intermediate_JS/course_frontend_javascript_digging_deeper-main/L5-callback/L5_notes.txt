@@ -1,4 +1,0 @@
-Takeaways
-1. A Callback is a Fn passed to another Fn
-2. Callback Fn allows customization for the end user
-3. A Callback hell is not pretty, and we should try to avid it as much as possible
